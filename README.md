@@ -16,3 +16,5 @@ Les joueurs ayant accès à la maintenance on automatiquement accès à la white
 
 Un motd custom est appliquer lorsque la maintenance ou que la whitelist est activé. 
 Pour le modifier ou le supprimer rendez-vous dans: 
+https://github.com/nicofighter45/VanaNetwork/blob/master/src/fr/nicofighter45/vananetwork/Listenner.java
+ligne 62 à 82
